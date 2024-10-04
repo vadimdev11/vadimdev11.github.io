@@ -1,5 +1,5 @@
 # app-ads.txt AdMob 28/05/2024
-google.com, pub-9966962268328280, DIRECT, f08c47fec0942fa0
+google.com, pub-8458937243925971, DIRECT, f08c47fec0942fa0
 
 #app-ads.txt Yandex 12/08/2024
 yandex.com, 98617359, DIRECT
