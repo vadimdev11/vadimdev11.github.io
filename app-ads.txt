@@ -2910,3 +2910,29 @@ yieldlab.net,2172218,RESELLER
 bigo.sg,1112518,reseller
 yandex.com,302446435,reseller
 applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
+yabbi.me, 675d9254-4032-47ed-9074-b6ef4dbab522, DIRECT
+madex.world, 544b4c02-bccb-47eb-a8c2-0a6be081778b, DIRECT
+betweendigital.com, 43713, RESELLER
+screenil.com, 554156, DIRECT
+appnexus.com, 16220, RESELLER, f5ab79cb980f11d1
+sharethrough.com, KqNHFkhm, RESELLER, d53b998a7bd4ecd2
+onetag.com, 8df8f252fa801e4, RESELLER
+triplelift.com, 13792, RESELLER, 6c33edb13117fd86
+triplelift.com, 13465, RESELLER, 6c33edb13117fd86
+sonobi.com, 78fc1c95fe, RESELLER, d1a215d9eb5aee9e
+media.net, 8CUXPR2GT, RESELLER
+conversantmedia.com, 100867, RESELLER, 03113cd04947736d
+contextweb.com,563595,RESELLER,89ff185a4c4e857c
+rubiconproject.com, 26184, RESELLER, 0bfd66d529a55807
+mediafuse.com, 720, RESELLER
+appnexus.com, 9538, RESELLER, f5ab79cb980f11d1
+sharethrough.com, Z7D3ygNP, RESELLER, d53b998a7bd4ecd2
+sovrn.com, 253233, RESELLER, fafdf38b16bf6b2b
+lijit.com, 253233, RESELLER, fafdf38b16bf6b2b
+loopme.com, 11436, RESELLER, 6c8d5f95897a5a3b
+iqzone.com,IQ272,RESELLER
+lijit.com,456186,RESELLER,fafdf38b16bf6b2b
+video.unrulymedia.com,5336134699710583737,RESELLER
+myfeature.tv, XmYnVLJ23ytAhfaON5n6, RESELLER
+video.unrulymedia.com, 1876793108340587286, RESELLER
+lijit.com, 491580, RESELLER, fafdf38b16bf6b2b
